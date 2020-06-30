@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.e889e196.chunk.css",
-    "main.js": "./static/js/main.58e0d337.chunk.js",
-    "main.js.map": "./static/js/main.58e0d337.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.c5f5b584.js",
-    "runtime-main.js.map": "./static/js/runtime-main.c5f5b584.js.map",
+    "main.js": "./static/js/main.d3b3fc41.chunk.js",
+    "main.js.map": "./static/js/main.d3b3fc41.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2d82ee0f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2d82ee0f.js.map",
     "static/js/2.cbdd179b.chunk.js": "./static/js/2.cbdd179b.chunk.js",
     "static/js/2.cbdd179b.chunk.js.map": "./static/js/2.cbdd179b.chunk.js.map",
     "static/js/3.8ec496b2.chunk.js": "./static/js/3.8ec496b2.chunk.js",
@@ -12,12 +12,12 @@
     "static/css/4.c04eed71.chunk.css": "./static/css/4.c04eed71.chunk.css",
     "static/js/4.1178e012.chunk.js": "./static/js/4.1178e012.chunk.js",
     "static/js/4.1178e012.chunk.js.map": "./static/js/4.1178e012.chunk.js.map",
-    "static/js/5.8b241be0.chunk.js": "./static/js/5.8b241be0.chunk.js",
-    "static/js/5.8b241be0.chunk.js.map": "./static/js/5.8b241be0.chunk.js.map",
+    "static/js/5.ea45e266.chunk.js": "./static/js/5.ea45e266.chunk.js",
+    "static/js/5.ea45e266.chunk.js.map": "./static/js/5.ea45e266.chunk.js.map",
     "static/js/6.52bf76a0.chunk.js": "./static/js/6.52bf76a0.chunk.js",
     "static/js/6.52bf76a0.chunk.js.map": "./static/js/6.52bf76a0.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.6e6dd6e42253f32cc08673c5ef2baac7.js": "./precache-manifest.6e6dd6e42253f32cc08673c5ef2baac7.js",
+    "precache-manifest.62c92b3bacfdd4df0bc6a96c0f95d612.js": "./precache-manifest.62c92b3bacfdd4df0bc6a96c0f95d612.js",
     "service-worker.js": "./service-worker.js",
     "static/css/4.c04eed71.chunk.css.map": "./static/css/4.c04eed71.chunk.css.map",
     "static/css/main.e889e196.chunk.css.map": "./static/css/main.e889e196.chunk.css.map",
@@ -42,9 +42,9 @@
     "static/media/tokbox.png": "./static/media/tokbox.a9902eab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5f5b584.js",
+    "static/js/runtime-main.2d82ee0f.js",
     "static/js/3.8ec496b2.chunk.js",
     "static/css/main.e889e196.chunk.css",
-    "static/js/main.58e0d337.chunk.js"
+    "static/js/main.d3b3fc41.chunk.js"
   ]
 }
